@@ -1,5 +1,6 @@
 # Blogr landing page
-This is my solution to the Blogr landing page challenge on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is my solution to the Blogr landing page challenge on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects.<br><br>
+View live version here: https://victorhugo183.github.io/blogr-landing-page/
 
 ## The challenge
 
