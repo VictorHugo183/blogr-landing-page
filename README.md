@@ -77,7 +77,7 @@ CSS positions: before this challenge I had a very limited understanding of how C
 </li>
 </ul>
 
-## Design Goal Overview:<br><br>
+## Desktop Design Overview:<br><br>
 
 ![Design preview for the Blogr landing page coding challenge](./design/desktop-preview.jpg)
 
