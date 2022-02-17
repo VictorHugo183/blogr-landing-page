@@ -389,6 +389,7 @@ footer{
     padding: 4rem 2rem 8rem;
   }
 
+  /* parent now has even horizontal padding, so we no longer need position absolute to center this element. */
   .introduction > h1:first-child{
     position: relative;
   }
