@@ -205,6 +205,13 @@ nav{
   padding: 10rem 0 3rem 10rem;
 }
 
+/* only select the first child h1 element and center it, disregarding the padding set on the parent element */
+.introduction > h1:first-child{
+  position: absolute;
+  left:0;
+  right: 0;
+}
+
 .introduction h1{
   text-align: center;
   color: var(--heading-blue);
@@ -380,6 +387,10 @@ footer{
 
   .introduction{
     padding: 4rem 2rem 8rem;
+  }
+
+  .introduction > h1:first-child{
+    position: relative;
   }
 
   .introduction h1{
@@ -562,6 +573,10 @@ footer{
 
   .mobile-dropdown-item a{
      color: var(--body-blue);
+  }
+
+  .mobile-dropdown-item a:hover{
+     color: var(--heading-blue);
   }
 
   .mobile-register{
